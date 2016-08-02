@@ -1,0 +1,28 @@
+name: smithfamily
+favicon: null
+layout_spectrum: 0.5401264382526278
+typography_spectrum: 0.47809571912512183
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.08206626563332975
+  lightness: 0.7052026556339115
+  saturation: 0.7820897514466196
+  rhythmicContrast: 0.2628817488439381
+purpose: []
